@@ -11,6 +11,8 @@ The Vehicle Data Service Challenge consists of the following main components:
 3. Data Storage (Database Service)
 4. GraphQL API (Vehicle Resolver)
 
+5. Import data (A script added to import the data to the db. Specific to this challenge.)
+
 ### Key Features
 
 - Fetches all vehicle makes and their corresponding vehicle types
